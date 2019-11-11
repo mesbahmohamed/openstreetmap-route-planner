@@ -3,7 +3,7 @@
 This program plots a path between two points on a map using real map data from the OpenStreeMap project. The path is found by using the A* search algorithm.
 The project extends the code from [a map rendering example](https://github.com/cpp-io2d/P0267_RefImpl/tree/master/P0267_RefImpl/Samples/maps) in the Github repo for the 2D Graphics Library IO2D in order to display the path.
 
-<img src="example.png"/>
+<img src="example.png" width="500" height="500"/>
 
 ## Usage
 
