@@ -78,7 +78,6 @@ std::vector<RouteModel::Node> RoutePlanner::ConstructFinalPath(RouteModel::Node 
 void RoutePlanner::AStarSearch() {
     RouteModel::Node *current_node = nullptr;
 
-    // TODO: Implement your solution here.
     current_node = start_node;
     while (current_node != nullptr) {
     	if (current_node == end_node) {
